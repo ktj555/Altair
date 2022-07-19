@@ -1,0 +1,80 @@
+<DesignOfExperiment>
+	<CAD_Dimension>
+		<Name>WIDTH_BASE</Name>
+		<Name>DEPTH_BASE</Name>
+		<Name>HEGITH_BASE</Name>
+		<Name>R</Name>
+		<Name>N</Name>
+		<Name>S</Name>
+	</CAD_Dimension>
+	<SimLabParameters>
+		<Name>Geometry</Name>
+		<Name>M1</Name>
+		<Name>M1_DEPTH_BASE</Name>
+		<Name>M1_WIDTH_BASE</Name>
+		<Name>M1_HEGITH_BASE</Name>
+		<Name>M1_N</Name>
+		<Name>M1_R</Name>
+		<Name>M1_S</Name>
+	</SimLabParameters>
+	<Runs>
+		<Experiment>
+			<Variable>
+				<Name>WIDTH_BASE</Name>
+				<Value>400.000000</Value>
+			</Variable>
+			<Variable>
+				<Name>DEPTH_BASE</Name>
+				<Value>800.000000</Value>
+			</Variable>
+			<Variable>
+				<Name>HEGITH_BASE</Name>
+				<Value>40.000000</Value>
+			</Variable>
+			<Variable>
+				<Name>R</Name>
+				<Value>15.000000</Value>
+			</Variable>
+			<Variable>
+				<Name>N</Name>
+				<Value>17.000000</Value>
+			</Variable>
+			<Variable>
+				<Name>S</Name>
+				<Value>45.000000</Value>
+			</Variable>
+			<Variable>
+				<Name>Geometry</Name>
+				<Value>flex_plate.prt.1</Value>
+			</Variable>
+			<Variable>
+				<Name>M1</Name>
+				<Value>flex_plate.prt.1</Value>
+			</Variable>
+			<Variable>
+				<Name>M1_DEPTH_BASE</Name>
+				<Value>800 mm</Value>
+			</Variable>
+			<Variable>
+				<Name>M1_WIDTH_BASE</Name>
+				<Value>400 mm</Value>
+			</Variable>
+			<Variable>
+				<Name>M1_HEGITH_BASE</Name>
+				<Value>40 mm</Value>
+			</Variable>
+			<Variable>
+				<Name>M1_N</Name>
+				<Value>17 mm</Value>
+			</Variable>
+			<Variable>
+				<Name>M1_R</Name>
+				<Value>15 mm</Value>
+			</Variable>
+			<Variable>
+				<Name>M1_S</Name>
+				<Value>45 mm</Value>
+			</Variable>
+		</Experiment>
+	</Runs>
+</DesignOfExperiment>
